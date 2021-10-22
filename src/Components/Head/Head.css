@@ -1,0 +1,17 @@
+.main-head{
+    width: 600px;
+    height: auto;
+    margin: auto;
+    border-bottom: 5px solid red;
+    padding-bottom: 20px;
+
+}
+.body-head{
+    background-color: rgb(17, 17, 17);
+    color: white;
+    width: 600px;
+    height: 80px;
+    text-align: center;
+    
+
+}
